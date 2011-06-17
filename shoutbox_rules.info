@@ -1,0 +1,9 @@
+;$Id$
+name = Shoutbox rules
+core = 6.x
+description = Extends shoutbox functionality to Rules
+dependencies[] = shoutbox
+dependencies[] = rules
+dependencies[] = token
+package = Shoutbox
+
